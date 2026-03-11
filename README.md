@@ -111,6 +111,7 @@ All durations are fully customizable via the ⚙️ Settings panel.
 https://roadmap.sh/projects/pomodoro-timer
 
 ## live project Link
+https://danielagboola52.github.io/Pomodoro-Timer/
 
 ## 👤 Author
 
